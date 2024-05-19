@@ -2,12 +2,14 @@
 
 This repository offers a collection of electrical circuit symbols,
 extracted from the Circuitikz package, that can be used in Inkscape for
-schematic creation.
+schematic creation. An example is shown below.
+
+![schamematic examples](./example.svg)
 
 ## Installation and Setup
 
 1. **Download SVG File**: Download the SVG file named
-   `circuitikz_1mm_grid.svg`.
+   `circuitikz_0.5mm_grid.svg`.
 2. **Locate Inkscape Directory**: Move the downloaded SVG file to
    Inkscape's symbol directory. On Linux systems, this is typically
    `$HOME/.config/inkscape/symbols`.
@@ -27,7 +29,7 @@ These symbols are optimized for a grid size of 1mm and a wire width of
 
 1. Navigate to `File > Document Properties > Grids`.
 2. Set `Grid Units` to `mm`.
-3. Configure both `SpacingX` and `SpacingY` to `1`.
+3. Configure both `SpacingX` and `SpacingY` to `0.5`.
 
 ### Wire Width Adjustment
 

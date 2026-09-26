@@ -1,0 +1,1829 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <title>CircuiTikZ - Common</title>
+  <defs>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="R -2.852 -7.513 -1 0" id="resistor"><title>Resistor</title><rect x="-2" y="-15.5" width="4" height="16" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)" stroke-linejoin="round" stroke-linecap="round">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V9.38933M0 33.28978V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<g stroke-linejoin="round">
+<path d="M0 8.63933L-4.48135 11.38103L4.48135 15.36443L-4.48135 19.34782L4.48135 23.33122L-4.48135 27.31462L4.48135 31.29802L0 34.03972" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-66.788195,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="R -2.852 -7.513 -1 0" id="resistor_box"><title>Resistor (box)</title><rect x="-2" y="-15.5" width="4" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V9.38933M0 33.28978V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<path d="M4.48135 33.28978V9.38933H-4.48135V33.28978ZM-4.48135 9.38933" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-66.788195,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15;-4.5,-7.49999" data-label="R -5.603 -7.513 -1 0" id="potentiometer"><title>Potentiometer</title><rect x="-5" y="-15.5" width="7" height="16" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)" stroke-linejoin="round" stroke-linecap="round">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V9.38933M0 33.28978V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<g stroke-linejoin="round">
+<path d="M0 8.63933L-4.48135 11.38103L4.48135 15.36443L-4.48135 19.34782L4.48135 23.33122L-4.48135 27.31462L4.48135 31.29802L0 34.03972" fill="none"/>
+<g stroke-width="1.5">
+<path d="M-11.95023 21.33955H-8.86133" fill="none"/>
+<g transform="translate(-8.86133,21.33955)">
+<path d="M4.37997 0C2.55498 .36499-.73 1.09499-2.91998 2.73747C-1.09499 .73-1.09499-.73-2.91998-2.73747C-.73-1.09499 2.55498-.36499 4.37997 0Z" stroke="none"/>
+</g>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-58.995047,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-11.95023 21.33955H-12.80373" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="R -2.852 -7.513 -1 0" id="memristor"><title>Memristor</title><rect x="-2" y="-15.5" width="4" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V9.38933M0 33.28978V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<path d="M4.48135 33.28978V9.38933H-4.48135V33.28978ZM-4.48135 9.38933" fill="none"/>
+</g>
+<path d="M0 9.38933V12.73538H-2.24068V17.1569H2.24068V21.93709H-2.24068V26.35861H0V30.89977" fill="none"/>
+<path d="M4.48135 33.28978V29.70467H-4.48135V33.28978ZM-4.48135 29.70467"/>
+<g stroke-width="0.5">
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-66.788195,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="C -4.175 -7.513 -1 0" id="capacitor"><title>Capacitor</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V18.35207M0 24.32704V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-8.96272 18.35207H8.96272M-8.96272 24.32704H8.96272" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.572634,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="C -3.857 -7.513 -1 0" id="polarized_capacitor"><title>Polarized capacitor</title><rect x="-3" y="-15.5" width="6" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V18.35207M0 24.32704V42.67912" fill="none"/>
+<g stroke-linecap="square">
+<g stroke-width="1.0">
+<path d="M-7.46886 24.32704V22.53453H7.46886V24.32704H-7.46886" fill="none"/>
+<g>
+<path d="M-7.46886 18.35207V20.14458H7.46886V18.35207H-7.46886"/>
+</g>
+</g>
+</g>
+<g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,-2.98135,33.83556)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-64.060919,-29.231264)scale(-1,-1)">
+<path d="M3.425156-1.26127H5.571108C5.636862-1.26127 5.875965-1.26127 5.875965-1.494396C5.875965-1.733499 5.642839-1.733499 5.571108-1.733499H3.425156V-3.879452C3.425156-3.939228 3.425156-4.184309 3.19203-4.184309C2.952927-4.184309 2.952927-3.945205 2.952927-3.879452V-1.733499H.806974C.74122-1.733499 .502117-1.733499 .502117-1.500374C.502117-1.26127 .735243-1.26127 .806974-1.26127H2.952927V.884682C2.952927 .944458 2.952927 1.189539 3.186052 1.189539C3.425156 1.189539 3.425156 .950436 3.425156 .884682V-1.26127Z" transform="translate(-61.570305,-29.231264)"/></g>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-64.060919,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="C -4.280 -7.513 -1 0" id="curved_capacitor"><title>Curved capacitor</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V18.35207M0 24.32704V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-8.96272 18.35207C-6.04085 20.03459-3.2445 21.6383 0 21.6383C3.24449 21.6383 6.04083 20.0346 8.96272 18.35207" fill="none"/>
+<path d="M-8.96272 24.32704H8.96272" fill="none"/>
+</g>
+<path d="M0 21.6383V18.35207" fill="none"/>
+<g stroke-width="0.5">
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.572634,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="C -4.175 -7.513 -1 0" id="variable_capacitor"><title>Variable capacitor</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V18.35207M0 24.32704V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-8.96272 18.35207H8.96272M-8.96272 24.32704H8.96272" fill="none"/>
+<g stroke-width="1.0">
+<path d="M8.96272 12.37709L-6.50198 27.84138" fill="none"/>
+<g transform="matrix(-0.7071,0.70708,-0.70708,-0.7071,-6.50198,27.84137)">
+<path d="M3.48001 0C2.03 .29-.58 .87-2.32 2.175C-.87 .58-.87-.58-2.32-2.175C-.58-.87 2.03-.29 3.48001 0Z" stroke="none"/>
+</g>
+</g>
+<g stroke-width="0.5">
+<path d="" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.572634,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="X -4.704 -7.513 -1 0" id="crystal"><title>Crystal</title><rect x="-4" y="-15.5" width="8" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V15.36456M0 27.31454V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-10.45636 15.36456H10.45636M-10.45636 27.31454H10.45636" fill="none"/>
+<g stroke-width="1.0">
+<path d="M9.85887 24.92459V17.75452H-9.85887V24.92459ZM-9.85887 17.75452" fill="none"/>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-61.084577,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="L -2.693 -7.513 -1 0" id="inductor"><title>Inductor</title><rect x="-2" y="-15.5" width="3.5" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V12.37683M0 30.30228V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<g stroke-linecap="butt">
+<g stroke-linejoin="bevel">
+<path d="M.2 11.87683C-2.27501 11.87683-4.28136 13.12538-4.28136 14.66559S-2.27501 17.45435 .2 17.45435C1.43742 17.45435 2.44055 16.95279 2.44055 16.33408C2.44055 15.71536 1.43742 15.2138 .2 15.2138C-2.27501 15.2138-4.28136 16.46236-4.28136 18.00256C-4.28136 19.54277-2.27501 20.79132 .2 20.79132C1.43742 20.79132 2.44055 20.28976 2.44055 19.67105S1.43742 18.55078 .2 18.55078C-2.27501 18.55078-4.28136 19.79933-4.28136 21.33954S-2.27501 24.1283 .2 24.1283C1.43742 24.1283 2.44055 23.62674 2.44055 23.00803C2.44055 22.38931 1.43742 21.88776 .2 21.88776C-2.27501 21.88776-4.28136 23.1363-4.28136 24.67651S-2.27501 27.46527 .2 27.46527C1.43742 27.46527 2.44055 26.96371 2.44055 26.345S1.43742 25.22473 .2 25.22473C-2.27501 25.22473-4.28136 26.47328-4.28136 28.01349S-2.27501 30.80225 .2 30.80225" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-67.236511,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="L -2.693 -7.513 -1 0" id="inductor_loops"><title>Inductor (loops)</title><rect x="-2" y="-15.5" width="2.5" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V9.38933M0 33.28978V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<g stroke-linecap="butt">
+<g stroke-linejoin="bevel">
+<path d="M.2 8.88933C-2.27489 8.88933-4.28113 10.28285-4.28113 12.00188C-4.28113 13.7209-2.27489 15.11443 .2 15.11443C-2.27489 15.11443-4.28113 16.50795-4.28113 18.22697C-4.28113 19.946-2.27489 21.33952 .2 21.33952C-2.27489 21.33952-4.28113 22.73305-4.28113 24.45207C-4.28113 26.1711-2.27489 27.56462 .2 27.56462C-2.27489 27.56462-4.28113 28.95815-4.28113 30.67717C-4.28113 32.3962-2.27489 33.78972 .2 33.78972" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-67.236739,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="V -4.439 -7.513 -1 0" id="voltage_source"><title>Voltage source</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V12.37683M0 30.30228V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<path d="M-8.96272 21.33955C-8.96272 26.28958-4.95003 30.30228 0 30.30228S8.96272 26.28958 8.96272 21.33955C8.96272 16.38953 4.95003 12.37683 0 12.37683S-8.96272 16.38953-8.96272 21.33955ZM0 21.33955" fill="none"/>
+</g>
+<g>
+<g transform="matrix(-1.0,0.0,0.0,1.0,3.8889,15.89902)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.323568,-29.231264)scale(-1,-1)">
+<path d="M6.56538-2.291407C6.734745-2.291407 6.914072-2.291407 6.914072-2.49066S6.734745-2.689913 6.56538-2.689913H1.175592C1.006227-2.689913 .826899-2.689913 .826899-2.49066S1.006227-2.291407 1.175592-2.291407H6.56538Z" transform="translate(-62.323568,-29.231264)"/></g>
+</g>
+<g transform="matrix(-1.0,0.0,0.0,1.0,3.8889,21.78009)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.323568,-29.231264)scale(-1,-1)">
+<path d="M4.07472-2.291407H6.854296C6.993773-2.291407 7.183064-2.291407 7.183064-2.49066S6.993773-2.689913 6.854296-2.689913H4.07472V-5.479452C4.07472-5.618929 4.07472-5.808219 3.875467-5.808219S3.676214-5.618929 3.676214-5.479452V-2.689913H.886675C.747198-2.689913 .557908-2.689913 .557908-2.49066S.747198-2.291407 .886675-2.291407H3.676214V.498132C3.676214 .637609 3.676214 .826899 3.875467 .826899S4.07472 .637609 4.07472 .498132V-2.291407Z" transform="translate(-62.323568,-29.231264)"/></g>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.323568,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="V -4.439 -7.513 -1 0" id="sinusoidal_voltage_source"><title>Sinusoidal voltage source</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V12.37683M0 30.30228V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<path d="M-8.96272 21.33955C-8.96272 16.38953-4.95003 12.37683 0 12.37683S8.96272 16.38953 8.96272 21.33955C8.96272 26.28958 4.95003 30.30228 0 30.30228S-8.96272 26.28958-8.96272 21.33955ZM0 21.33955" fill="none"/>
+<g stroke-width="1.5">
+<path d="M4.48135 21.33955C3.75089 20.19235 3.0518 19.09888 2.24068 19.09888C1.42957 19.09888 .73048 20.19234 0 21.33955C-.73047 22.48676-1.42955 23.58023-2.24068 23.58023C-3.05179 23.58023-3.75087 22.48677-4.48135 21.33955" fill="none"/>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.323568,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="V -4.439 -7.513 -1 0" id="square_wave_voltage_source"><title>Square-wave voltage source</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V12.37683M0 30.30228V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<path d="M-8.96272 21.33955C-8.96272 16.38953-4.95003 12.37683 0 12.37683S8.96272 16.38953 8.96272 21.33955C8.96272 26.28958 4.95003 30.30228 0 30.30228S-8.96272 26.28958-8.96272 21.33955ZM0 21.33955" fill="none"/>
+<g stroke-width="1.5">
+<path d="M4.48135 21.33955V16.8582H0V25.8209H-4.48135V21.33955" fill="none"/>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.323568,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="V -4.439 -7.513 -1 0" id="noise_source"><title>Noise source</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V12.37695M0 30.30215V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<path d="M8.9626 21.33955C8.9626 26.28952 4.94997 30.30215 0 30.30215S-8.9626 26.28952-8.9626 21.33955C-8.9626 16.38959-4.94997 12.37695 0 12.37695S8.9626 16.38959 8.9626 21.33955ZM0 21.33955" fill="none"/>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<path d="M0 26.269V16.41013M4.26903 23.80443L-4.26903 18.875M4.26903 18.875L-4.26903 23.80443" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="V -5.074 -7.513 -1 0" id="dependent_voltage_source"><title>Dependent voltage source</title><rect x="-4.5" y="-15.5" width="9" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V10.8832M0 31.79591V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<path d="M0 31.79591L-10.45636 21.33955L0 10.8832L10.45636 21.33955Z" fill="none"/>
+</g>
+<g>
+<g transform="matrix(-1.0,0.0,0.0,1.0,3.8889,14.85347)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-60.835511,-29.231264)scale(-1,-1)">
+<path d="M6.56538-2.291407C6.734745-2.291407 6.914072-2.291407 6.914072-2.49066S6.734745-2.689913 6.56538-2.689913H1.175592C1.006227-2.689913 .826899-2.689913 .826899-2.49066S1.006227-2.291407 1.175592-2.291407H6.56538Z" transform="translate(-60.835511,-29.231264)"/></g>
+</g>
+<g transform="matrix(-1.0,0.0,0.0,1.0,3.8889,22.82564)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-60.835511,-29.231264)scale(-1,-1)">
+<path d="M4.07472-2.291407H6.854296C6.993773-2.291407 7.183064-2.291407 7.183064-2.49066S6.993773-2.689913 6.854296-2.689913H4.07472V-5.479452C4.07472-5.618929 4.07472-5.808219 3.875467-5.808219S3.676214-5.618929 3.676214-5.479452V-2.689913H.886675C.747198-2.689913 .557908-2.689913 .557908-2.49066S.747198-2.291407 .886675-2.291407H3.676214V.498132C3.676214 .637609 3.676214 .826899 3.875467 .826899S4.07472 .637609 4.07472 .498132V-2.291407Z" transform="translate(-60.835511,-29.231264)"/></g>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-60.835511,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="V -4.175 -7.513 -1 0" id="battery"><title>Battery</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V16.8582M0 25.8209V42.67912" fill="none"/>
+<path d="M0 22.8184V25.8209M0 19.8607V16.8582" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-4.48135 22.8184H4.48135M-8.96272 19.8607H8.96272" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-62.572634,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="I -4.439 -7.513 -1 0" id="current_source"><title>Current source</title><rect x="-3.5" y="-15.5" width="7" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V12.37695M0 30.30215V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<g stroke-linejoin="miter">
+<path d="M8.9626 21.33955C8.9626 26.28952 4.94997 30.30215 0 30.30215S-8.9626 26.28952-8.9626 21.33955C-8.9626 16.38959-4.94997 12.37695 0 12.37695S8.9626 16.38959 8.9626 21.33955ZM0 21.33955" fill="none"/>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<path d="M0 15.78273V26.71713" fill="none"/>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M-2.27621 23.19756C-1.02429 24.4779-.28453 25.84367 0 26.8964C.28453 25.84367 1.02429 24.4779 2.27621 23.19756" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="I -5.074 -7.513 -1 0" id="dependent_current_source"><title>Dependent current source</title><rect x="-4.5" y="-15.5" width="9" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V10.88316M0 31.79596V42.67912" fill="none"/>
+<g stroke-width="1.5">
+<g stroke-linejoin="miter">
+<path d="M0 10.88316L10.45639 21.33955L0 31.79596L-10.45639 21.33955Z" fill="none"/>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<path d="M0 14.85658V27.6134" fill="none"/>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M-2.27621 24.12369C-1.02429 25.40404-.28453 26.7698 0 27.82253C.28453 26.7698 1.02429 25.40404 2.27621 24.12369" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="D -3.963 -7.513 -1 0" id="diode"><title>Diode</title><rect x="-3" y="-15.5" width="6" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V15.36456M0 27.31454V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M0 15.36456L-7.46886 27.31454H7.46886Z" fill="none"/>
+<g stroke-width="0.5">
+</g>
+<path d="M7.46886 15.36456H-7.46886" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-64.060919,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="D -3.963 -7.513 -1 0" id="zener_diode"><title>Zener diode</title><rect x="-3" y="-15.5" width="6" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V15.36456M0 27.31454V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M0 15.36456L-7.46886 27.31454H7.46886Z" fill="none"/>
+<g stroke-width="0.5">
+</g>
+<path d="M7.46886 15.36456H-7.46886V17.75453" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-64.060919,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="D -3.963 -7.513 -1 0" id="schottky_diode"><title>Schottky diode</title><rect x="-3" y="-15.5" width="6" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V15.36456M0 27.31454V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M0 15.36456L-7.46886 27.31454H7.46886Z" fill="none"/>
+<g stroke-width="0.5">
+</g>
+<path d="M4.48135 17.75453H7.46886V15.36456H-7.46886V12.97461H-4.48135" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-64.060919,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="D -6.291 -7.513 -1 0" id="led"><title>LED</title><rect x="-5.5" y="-15.5" width="8.5" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V15.36456M0 27.31454V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M0 15.36456L-7.46886 27.31454H7.46886Z" fill="none"/>
+<g stroke-width="0.5">
+</g>
+<path d="M7.46886 15.36456H-7.46886" fill="none"/>
+<g stroke-width="0.5">
+<g>
+<g stroke-width="0.5">
+<path d="M-7.46886 23.7295L-12.92319 19.36606" fill="none"/>
+<g>
+<g transform="matrix(-0.78084,-0.62463,0.62463,-0.78084,-12.92319,19.36606)">
+<path d="M2.57996 0C1.50497 .215-.43 .64499-1.71997 1.61247C-.64499 .43-.64499-.43-1.71997-1.61247C-.43-.64499 1.50497-.215 2.57996 0Z" stroke="none"/>
+</g>
+</g>
+<path d="M-5.9751 20.14458L-11.42943 15.78111" fill="none"/>
+<g>
+<g transform="matrix(-0.78084,-0.62463,0.62463,-0.78084,-11.42943,15.78111)">
+<path d="M2.57996 0C1.50497 .215-.43 .64499-1.71997 1.61247C-.64499 .43-.64499-.43-1.71997-1.61247C-.43-.64499 1.50497-.215 2.57996 0Z" stroke="none"/>
+</g>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-56.869032,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="D -6.344 -7.513 -1 0" id="photodiode"><title>Photodiode</title><rect x="-5.5" y="-15.5" width="8.5" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V15.36456M0 27.31454V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M0 15.36456L-7.46886 27.31454H7.46886Z" fill="none"/>
+<g stroke-width="0.5">
+</g>
+<path d="M7.46886 15.36456H-7.46886" fill="none"/>
+<g stroke-width="0.5">
+<g>
+<g stroke-width="0.5">
+<path d="M-14.93771 17.75453L-9.48338 22.11798" fill="none"/>
+<g>
+<g transform="matrix(0.78084,0.62463,-0.62463,0.78084,-9.48338,22.11798)">
+<path d="M2.57996 0C1.50497 .215-.43 .64499-1.71997 1.61247C-.64499 .43-.64499-.43-1.71997-1.61247C-.43-.64499 1.50497-.215 2.57996 0Z" stroke="none"/>
+</g>
+</g>
+<path d="M-13.44395 14.16959L-7.98962 18.53305" fill="none"/>
+<g>
+<g transform="matrix(0.78084,0.62463,-0.62463,0.78084,-7.98962,18.53305)">
+<path d="M2.57996 0C1.50497 .215-.43 .64499-1.71997 1.61247C-.64499 .43-.64499-.43-1.71997-1.61247C-.43-.64499 1.50497-.215 2.57996 0Z" stroke="none"/>
+</g>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(0.0,-1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-56.869032,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-7.5,-0;0,-6;0,6" data-label="M 1.106 0.000 1 0" id="nmos"><title>NMOS</title><rect x="-8" y="-6.5" width="8.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V5.75114H-10.45636M-10.45636-5.75114H0V-16.6816" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-10.45636 8.21579V-8.21579M-12.96579 5.75114V-5.75114" fill="none"/>
+</g>
+<path d="M-12.96579 0H-21.16273" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-20.91273 0H-21.33955" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-7.5,-0;0,6;0,-6" data-label="M 1.106 0.000 1 0" id="pmos"><title>PMOS</title><rect x="-8" y="-6.5" width="8.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V5.75114H-10.45636" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-10.45636 8.21579V-8.21579M-12.96579 5.75114V-5.75114" fill="none"/>
+</g>
+<path d="M-10.45636-5.75114H0V-16.6816" fill="none"/>
+<path d="M-12.96579 0H-21.16273" fill="none"/>
+<path d="M-12.96579 0C-12.96579 .65988-13.50072 1.19481-14.1606 1.19481S-15.35541 .65988-15.35541 0S-14.82048-1.19481-14.1606-1.19481S-12.96579-.65988-12.96579 0ZM-14.1606 0"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-20.91273 0H-21.33955" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-7.5,-0;0,-6;0,6" data-label="M 1.106 0.000 1 0" id="nmos_arrow"><title>NMOS (arrow)</title><rect x="-8" y="-6.5" width="8.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V5.75114H-10.45636M-10.45636-5.75114H0V-16.6816" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-10.45636 8.21579V-8.21579M-12.96579 5.75114V-5.75114" fill="none"/>
+</g>
+<g>
+<path d="M-6.49327-5.75114V-7.2449L-3.31905-5.75114L-6.49327-4.25739Z"/>
+</g>
+<g transform="translate(-5.18625,-5.75114)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)"/>
+</g>
+<path d="M-12.96579 0H-21.16273" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-20.91273 0H-21.33955" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-7.5,-0;0,6;0,-6" data-label="M 1.106 0.000 1 0" id="pmos_arrow"><title>PMOS (arrow)</title><rect x="-8" y="-6.5" width="8.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V5.75114H-10.45636" fill="none"/>
+<g>
+<path d="M-3.87921 5.75114V7.2449L-7.05344 5.75114L-3.87921 4.25739Z"/>
+</g>
+<g transform="matrix(-1.0,0.0,0.0,-1.0,-5.18623,5.75114)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)"/>
+</g>
+<g stroke-width="1.0">
+<path d="M-10.45636 8.21579V-8.21579M-12.96579 5.75114V-5.75114" fill="none"/>
+</g>
+<path d="M-10.45636-5.75114H0V-16.6816" fill="none"/>
+<path d="M-12.96579 0H-21.16273" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-20.91273 0H-21.33955" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-7.5,-0;0,-6;0,6;0,-0" data-label="M 1.106 0.000 1 0" id="nmos_with_bulk"><title>NMOS with bulk</title><rect x="-8" y="-6.5" width="8.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V5.75114H-10.45636M-10.45636-5.75114H0V-16.6816" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-10.45636 8.21579V-8.21579M-12.96579 5.75114V-5.75114" fill="none"/>
+</g>
+<g>
+<path d="M-6.49327-5.75114V-7.2449L-3.31905-5.75114L-6.49327-4.25739Z"/>
+</g>
+<g transform="translate(-5.18625,-5.75114)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)"/>
+</g>
+<path d="M-12.96579 0H-21.16273" fill="none"/>
+<path d="M-10.45636 0H.25" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-20.91273 0H-21.33955" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-7.5,-0;0,6;0,-6;0,-0" data-label="M 1.106 0.000 1 0" id="pmos_with_bulk"><title>PMOS with bulk</title><rect x="-8" y="-6.5" width="8.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V5.75114H-10.45636" fill="none"/>
+<g>
+<path d="M-3.87921 5.75114V7.2449L-7.05344 5.75114L-3.87921 4.25739Z"/>
+</g>
+<g transform="matrix(-1.0,0.0,0.0,-1.0,-5.18623,5.75114)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)"/>
+</g>
+<g stroke-width="1.0">
+<path d="M-10.45636 8.21579V-8.21579M-12.96579 5.75114V-5.75114" fill="none"/>
+</g>
+<path d="M-10.45636-5.75114H0V-16.6816" fill="none"/>
+<path d="M-12.96579 0H-21.16273" fill="none"/>
+<path d="M-10.45636 0H.25" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-20.91273 0H-21.33955" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-7.5,-0;0,-6;0,6" data-label="M 1.106 0.000 1 0" id="nfet_body_arrow"><title>NFET (body arrow)</title><rect x="-8" y="-6.5" width="8.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V5.75114H-10.45636" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-10.45636 8.21579V3.69707M-10.45636 2.05394V-2.05394M-10.45636-3.69707V-8.21579" fill="none"/>
+</g>
+<path d="M-10.45636 0H.25" fill="none"/>
+<path d="M-10.45636-5.75114H0V-16.6816" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-12.96579 6.00114V-6.00114" fill="none"/>
+</g>
+<g>
+<path d="M-4.71684 0V-1.8734L-9.01256 0L-4.71684 1.8734Z" stroke="none"/>
+</g>
+<g transform="matrix(-1.0,0.0,0.0,-1.0,-6.27386,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)"/>
+</g>
+<path d="M-12.96579 0H-21.16273" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-20.91273 0H-21.33955" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-7.5,-0;0,6;0,-6" data-label="M 1.106 0.000 1 0" id="pfet_body_arrow"><title>PFET (body arrow)</title><rect x="-8" y="-6.5" width="8.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V5.75114H-10.45636" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-10.45636 8.21579V3.69707M-10.45636 2.05394V-2.05394M-10.45636-3.69707V-8.21579" fill="none"/>
+</g>
+<path d="M-10.45636 0H.25" fill="none"/>
+<path d="M-10.45636-5.75114H0V-16.6816" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-12.96579 6.00114V-6.00114" fill="none"/>
+</g>
+<g>
+<path d="M-7.83089 0V1.8734L-3.53517 0L-7.83089-1.8734Z" stroke="none"/>
+</g>
+<g transform="translate(-6.27386,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)"/>
+</g>
+<path d="M-12.96579 0H-21.16273" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-50.491109,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-20.91273 0H-21.33955" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-6.5,-0;0,-6;0,6" data-label="Q 1.106 0.000 1 0" id="npn"><title>NPN</title><rect x="-7" y="-6.5" width="7.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V6.57253L-8.96272 2.46463" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-8.96272 6.57253V-6.57253" fill="none"/>
+</g>
+<path d="M-8.96272-2.46463L0-6.57253V-16.6816" fill="none"/>
+<g>
+<path d="M-5.89674-3.86989L-5.11624-2.16693L-1.99184-5.65958L-6.67725-5.57285Z" stroke="none"/>
+</g>
+<g transform="matrix(0.90903,-0.41663,0.41663,0.90903,-4.48137,-4.51857)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-53.325755,-54.743078)scale(-1,-1)"/>
+</g>
+<path d="M-8.96272 0H-18.17546" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-53.325755,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-17.92546 0H-18.49428" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-6.5,-0;0,6;0,-6" data-label="Q 1.106 0.000 1 0" id="pnp"><title>PNP</title><rect x="-7" y="-6.5" width="7.5" height="13" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 16.6816V6.57253L-8.96272 2.46463" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-8.96272 6.57253V-6.57253" fill="none"/>
+</g>
+<path d="M-8.96272-2.46463L0-6.57253V-16.6816" fill="none"/>
+<g>
+<path d="M-3.06598 5.16727L-2.28548 3.46431L-6.97089 3.37758L-3.84648 6.87022Z" stroke="none"/>
+</g>
+<g transform="matrix(-0.90903,-0.41663,0.41663,-0.90903,-4.48135,4.51859)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-53.325755,-54.743078)scale(-1,-1)"/>
+</g>
+<path d="M-8.96272 0H-18.17546" fill="none"/>
+<g transform="translate(1.49385,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-53.325755,-54.743078)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-17.92546 0H-18.49428" fill="none"/>
+<path d="M0-16.4316V-17.07164" fill="none"/>
+<path d="M0 16.4316V17.07164" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-8.5,3.5;-8.5,-3.49995;8.5,2.62073e-05" id="op_amp"><title>Op amp</title><rect x="-9" y="-7.5" width="18" height="15" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0-.00008" fill="none"/>
+<g stroke-width="1.0">
+<path d="M16.92928-.00008L-16.92924 19.91673V-19.91689Z" fill="none"/>
+</g>
+<g stroke-linecap="square">
+<path d="M-24.18477 9.95831H-16.92924M-24.18477-9.95847H-16.92924M24.18477-.00008H16.92924" fill="none"/>
+<g>
+<g transform="matrix(0.95238,0.0,0.0,0.95238,-16.92924,7.57738)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-47.656524,-51.659548)scale(-1,-1)">
+<path d="M7.491905-2.191781C7.641345-2.191781 7.940224-2.191781 7.940224-2.49066C7.940224-2.799502 7.651308-2.799502 7.491905-2.799502H1.404732C1.255293-2.799502 .956413-2.799502 .956413-2.500623C.956413-2.191781 1.24533-2.191781 1.404732-2.191781H7.491905Z" transform="translate(-44.335649,-51.659548)"/></g>
+</g>
+<g transform="matrix(0.95238,0.0,0.0,0.95238,-16.92924,-12.3394)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-47.656524,-51.659548)scale(-1,-1)">
+<path d="M4.752179-2.191781H7.830635C7.960149-2.191781 8.259029-2.191781 8.259029-2.49066C8.259029-2.799502 7.970112-2.799502 7.830635-2.799502H4.752179V-5.88792C4.752179-6.007472 4.752179-6.306351 4.4533-6.306351C4.144458-6.306351 4.144458-6.017435 4.144458-5.88792V-2.799502H1.066002C.926526-2.799502 .637609-2.799502 .637609-2.49066C.637609-2.191781 .936488-2.191781 1.066002-2.191781H4.144458V.896638C4.144458 1.016189 4.144458 1.315068 4.443337 1.315068C4.752179 1.315068 4.752179 1.026152 4.752179 .896638V-2.191781Z" transform="translate(-44.335649,-51.659548)"/></g>
+</g>
+</g>
+</g>
+<g transform="matrix(0.95238,0.0,0.0,0.95238,0.0,-0.00008)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-47.656524,-51.659548)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-9.5,4;-9.5,-3.50003;6.5,-3.50003;6.5,4" id="fully_differential_op_amp"><title>Fully differential op amp</title><rect x="-10" y="-8" width="17" height="16.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0-.71127" fill="none"/>
+<path d="M18.13872-.71127L.00002 9.95856H18.13872H.00002L-18.1387 20.62842V-22.05096L.00002-11.3811H18.13872H.00002L18.13872-.71127Z" fill="none"/>
+<g stroke-width="1.0">
+<path d="M18.13872-.71127L-18.1387 20.62842V-22.05096Z" fill="none"/>
+</g>
+<g stroke-linecap="square">
+<path d="M-25.91255 9.95856H-18.1387M-25.91255-11.3811H-18.1387" fill="none"/>
+<g>
+<g transform="matrix(1.02042,0.0,0.0,1.02042,-18.1387,7.40752)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-44.821817,-50.950522)scale(-1,-1)">
+<path d="M7.491905-2.191781C7.641345-2.191781 7.940224-2.191781 7.940224-2.49066C7.940224-2.799502 7.651308-2.799502 7.491905-2.799502H1.404732C1.255293-2.799502 .956413-2.799502 .956413-2.500623C.956413-2.191781 1.24533-2.191781 1.404732-2.191781H7.491905Z" transform="translate(-41.500942,-50.950522)"/></g>
+</g>
+<g transform="matrix(1.02042,0.0,0.0,1.02042,-18.1387,-13.93214)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-44.821817,-50.950522)scale(-1,-1)">
+<path d="M4.752179-2.191781H7.830635C7.960149-2.191781 8.259029-2.191781 8.259029-2.49066C8.259029-2.799502 7.970112-2.799502 7.830635-2.799502H4.752179V-5.88792C4.752179-6.007472 4.752179-6.306351 4.4533-6.306351C4.144458-6.306351 4.144458-6.017435 4.144458-5.88792V-2.799502H1.066002C.926526-2.799502 .637609-2.799502 .637609-2.49066C.637609-2.191781 .936488-2.191781 1.066002-2.191781H4.144458V.896638C4.144458 1.016189 4.144458 1.315068 4.443337 1.315068C4.752179 1.315068 4.752179 1.026152 4.752179 .896638V-2.191781Z" transform="translate(-41.500942,-50.950522)"/></g>
+</g>
+<g transform="matrix(1.02042,0.0,0.0,1.02042,-9.46713,-7.39977)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-44.821817,-50.950522)scale(-1,-1)">
+<path d="M7.491905-2.191781C7.641345-2.191781 7.940224-2.191781 7.940224-2.49066C7.940224-2.799502 7.651308-2.799502 7.491905-2.799502H1.404732C1.255293-2.799502 .956413-2.799502 .956413-2.500623C.956413-2.191781 1.24533-2.191781 1.404732-2.191781H7.491905Z" transform="translate(-41.500942,-50.950522)"/></g>
+</g>
+<g transform="matrix(1.02042,0.0,0.0,1.02042,-9.46713,0.87514)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-44.821817,-50.950522)scale(-1,-1)">
+<path d="M4.752179-2.191781H7.830635C7.960149-2.191781 8.259029-2.191781 8.259029-2.49066C8.259029-2.799502 7.970112-2.799502 7.830635-2.799502H4.752179V-5.88792C4.752179-6.007472 4.752179-6.306351 4.4533-6.306351C4.144458-6.306351 4.144458-6.017435 4.144458-5.88792V-2.799502H1.066002C.926526-2.799502 .637609-2.799502 .637609-2.49066C.637609-2.191781 .936488-2.191781 1.066002-2.191781H4.144458V.896638C4.144458 1.016189 4.144458 1.315068 4.443337 1.315068C4.752179 1.315068 4.752179 1.026152 4.752179 .896638V-2.191781Z" transform="translate(-41.500942,-50.950522)"/></g>
+</g>
+</g>
+</g>
+<g transform="matrix(1.02042,0.0,0.0,1.02042,0.0,-0.71127)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-44.821817,-50.950522)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-25.91255-11.3811L-27.0301-11.38109" fill="none"/>
+<path d="M-25.91255 9.95856L-27.0301 9.95854" fill="none"/>
+<path d="M18.1387 9.95856L18.49428 9.95854" fill="none"/>
+<path d="M18.1387-11.3811L18.49428-11.38109" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-9,-0;9,-0" id="amplifier"><title>Amplifier</title><rect x="-9.5" y="-8" width="18.5" height="16" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g stroke-width="1.0">
+<path d="M17.7758 0L-17.77579 20.91273V-20.91273Z" fill="none"/>
+</g>
+<path d="M-25.3941 0H-17.77579M25.3941 0H17.77579" fill="none"/>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-46.23914,-50.667267)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+<path d="M-25.3941 0H-25.60747" fill="none"/>
+<path d="M25.3941 0H25.60747" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-5.5,-0;5.5,-0" id="buffer"><title>Buffer</title><rect x="-6" y="-6" width="12" height="12" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g stroke-width="1.0">
+<path d="M10.45636 0L-10.45636 14.93773V-14.93773Z" fill="none"/>
+</g>
+<path d="M-14.93773 0H-10.45636M14.93773 0H10.45636" fill="none"/>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-56.160401,-56.619951)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+<path d="M-14.93773 0H-15.649" fill="none"/>
+<path d="M14.93773 0H15.649" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-10,-2;-10,2;1.5,-4.1511e-07" id="and_gate"><title>AND gate</title><rect x="-10.5" y="-4.5" width="12.5" height="9" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M-28.16837 5.69055H-23.4736M-28.16837-5.69055H-23.4736M3.12976 0H-1.565" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-23.4736 11.38112V-11.38112C-11.37367-11.38112-1.565-6.28569-1.565 0S-11.37367 11.38112-23.4736 11.38112Z" fill="none"/>
+</g>
+<g transform="matrix(0.95238,0.0,0.0,0.95238,-12.5193,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-43.404494,-60.163273)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-28.16837 5.69055L-28.45274 5.69054" fill="none"/>
+<path d="M-28.16837-5.69055L-28.45274-5.69054" fill="none"/>
+<path d="M3.12976 0H4.2679" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-10,-2;-10,2;1.5,-4.1511e-07" id="nand_gate"><title>NAND gate</title><rect x="-10.5" y="-4.5" width="12.5" height="9" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M-28.16837 5.69055H-23.4736M-28.16837-5.69055H-23.4736M3.12976 0H-1.565" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-23.4736 11.38112V-11.38112C-12.67004-11.38112-3.91226-6.28569-3.91226 0S-12.67004 11.38112-23.4736 11.38112ZM-1.56502 0C-1.56502 .64816-2.09047 1.17361-2.73863 1.17361C-3.3868 1.17361-3.91225 .64816-3.91225 0S-3.3868-1.17361-2.73863-1.17361C-2.09047-1.17361-1.56502-.64816-1.56502 0ZM-2.73863 0" fill="none"/>
+</g>
+<g transform="matrix(0.95238,0.0,0.0,0.95238,-12.5193,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-43.404494,-60.163273)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-28.16837 5.69055L-28.45274 5.69054" fill="none"/>
+<path d="M-28.16837-5.69055L-28.45274-5.69054" fill="none"/>
+<path d="M3.12976 0H4.2679" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-10,-2;-10,2;1.5,-4.1511e-07" id="or_gate"><title>OR gate</title><rect x="-10.5" y="-4.5" width="12.5" height="9" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M-28.16837 5.69055H-19.61551M-28.16837-5.69055H-19.61551M3.12976 0H-1.565" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-23.4736 11.38112C-19.77032 9.09344-17.86096 2.14389-19.20885-4.14136C-19.93018-7.50494-21.49178-10.1553-23.4736-11.37956C-7.82455-11.38112-7.82455-5.69055-1.565 0C-7.82455 5.69055-7.82455 11.38112-23.4736 11.38112Z" fill="none"/>
+</g>
+<g transform="matrix(0.95238,0.0,0.0,0.95238,-12.5193,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-43.404494,-60.163273)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-28.16837 5.69055L-28.45274 5.69054" fill="none"/>
+<path d="M-28.16837-5.69055L-28.45274-5.69054" fill="none"/>
+<path d="M3.12976 0H4.2679" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-10,-2;-10,2;1.5,-4.1511e-07" id="nor_gate"><title>NOR gate</title><rect x="-10.5" y="-4.5" width="12.5" height="9" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M-28.16837 5.69055H-19.61551M-28.16837-5.69055H-19.61551M3.12976 0H-1.565" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-23.4736 11.38112C-19.77032 9.09344-17.86096 2.14389-19.20885-4.14136C-19.93018-7.50494-21.49178-10.1553-23.4736-11.37956C-7.82455-11.38112-7.82455-5.69055-3.91226 0C-7.82455 5.69055-7.82455 11.38112-23.4736 11.38112ZM-1.56502 0C-1.56502 .64816-2.09047 1.17361-2.73863 1.17361C-3.3868 1.17361-3.91225 .64816-3.91225 0S-3.3868-1.17361-2.73863-1.17361C-2.09047-1.17361-1.56502-.64816-1.56502 0ZM-2.73863 0" fill="none"/>
+</g>
+<g transform="matrix(0.95238,0.0,0.0,0.95238,-12.5193,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-43.404494,-60.163273)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-28.16837 5.69055L-28.45274 5.69054" fill="none"/>
+<path d="M-28.16837-5.69055L-28.45274-5.69054" fill="none"/>
+<path d="M3.12976 0H4.2679" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-10,-2;-10,2;1.5,-4.1511e-07" id="xor_gate"><title>XOR gate</title><rect x="-10.5" y="-4.5" width="12.5" height="9" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M-28.16837 5.69055H-22.16061M-28.16837-5.69055H-22.16061M3.12976 0H-1.565" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-23.4736 11.38112C-19.77032 9.09344-17.86096 2.14389-19.20885-4.14136C-19.93018-7.50494-21.49178-10.1553-23.4736-11.37956C-7.82455-11.38112-7.82455-5.69055-1.565 0C-7.82455 5.69055-7.82455 11.38112-23.4736 11.38112Z" fill="none"/>
+<path d="M-25.03859 10.4854C-21.82959 8.37764-20.17505 1.97458-21.34303-3.8164C-21.96808-6.91548-23.32127-9.35742-25.03859-10.4854" fill="none"/>
+</g>
+<g transform="matrix(0.95238,0.0,0.0,0.95238,-12.5193,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-43.404494,-60.163273)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-28.16837 5.69055L-28.45274 5.69054" fill="none"/>
+<path d="M-28.16837-5.69055L-28.45274-5.69054" fill="none"/>
+<path d="M3.12976 0H4.2679" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-5.5,-0;5.5,-0" id="not_gate"><title>NOT gate</title><rect x="-6" y="-6" width="12" height="12" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g stroke-width="1.0">
+<path d="M8.2158 0L-10.45636 14.93773V-14.93773L8.2158 0" fill="none"/>
+<path d="M10.45636 0C10.45636 .61871 9.9548 1.12027 9.33609 1.12027S8.21582 .61871 8.21582 0S8.71738-1.12027 9.33609-1.12027S10.45636-.61871 10.45636 0ZM9.33609 0" fill="none"/>
+</g>
+<path d="M-14.93773 0H-10.45636M14.93773 0H10.45636" fill="none"/>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-56.160401,-56.619951)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+<path d="M-14.93773 0H-15.649" fill="none"/>
+<path d="M14.93773 0H15.649" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-5.5,-0;5.5,-0" id="buffer_gate"><title>Buffer gate</title><rect x="-6" y="-6" width="12" height="12" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g stroke-width="1.0">
+<path d="M10.45636 0L-10.45636 14.93773V-14.93773L10.45636 0" fill="none"/>
+</g>
+<path d="M-14.93773 0H-10.45636M14.93773 0H10.45636" fill="none"/>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-56.160401,-56.619951)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+<path d="M-14.93773 0H-15.649" fill="none"/>
+<path d="M14.93773 0H15.649" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-5.5,-0;5.5,-0" id="schmitt_trigger"><title>Schmitt trigger</title><rect x="-6" y="-6" width="12" height="12" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g stroke-width="1.0">
+<path d="M10.45636 0L-10.45636 14.93773V-14.93773Z" fill="none"/>
+</g>
+<path d="M-14.93773 0H-10.45636M14.93773 0H10.45636" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-8.96272-4.48135H-5.97499V4.48135H-.74692M-5.97499-4.48135H-3.73442V4.48135" fill="none"/>
+</g>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-56.160401,-56.619951)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+<path d="M-14.93773 0H-15.649" fill="none"/>
+<path d="M14.93773 0H15.649" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-8.5,-0;8.5,-0;0,3;0,-3" id="transmission_gate"><title>Transmission gate</title><rect x="-9" y="-3.5" width="18" height="7" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M-14.48857 0H-22.85321M0 0V-8.36464M0 3.96544V8.36464" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-14.48857 8.36496L0 0L-14.48857-8.36496Z" fill="none"/>
+<path d="M14.48857 8.36496L0 0L14.48857-8.36496Z" fill="none"/>
+</g>
+<g stroke-width="1.0">
+<g fill="#fff">
+<path d="M1.84038 2.12506C1.84038 3.14148 1.01642 3.96544 0 3.96544S-1.84038 3.14148-1.84038 2.12506S-1.01642 .28468 0 .28468S1.84038 1.10864 1.84038 2.12506ZM0 2.12506"/>
+<g fill-opacity="1">
+<path d=""/>
+</g>
+</g>
+</g>
+<g transform="translate(0.0,2.12506)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-47.656463,-63.168164)scale(-1,-1)"/>
+</g>
+<path d="M14.48857 0H22.85321" fill="none"/>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-47.656463,-63.168164)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+<path d="M-22.85321 0H-24.18483" fill="none"/>
+<path d="M22.85321 0H24.18483" fill="none"/>
+<path d="M0-8.36464V-8.53581" fill="none"/>
+<path d="M0 8.36464V8.53581" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="S -2.746 -7.513 -1 0" id="switch"><title>Switch</title><rect x="-2" y="-15.5" width="2.5" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V16.11127M0 26.56784V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<g stroke-linecap="butt">
+<path d="M0 16.11127L-4.48135 26.04497" fill="none"/>
+<g stroke-width="0.5">
+</g>
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-67.037261,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="S -3.381 -7.513 -1 0" id="closing_switch"><title>Closing switch</title><rect x="-2.5" y="-15.5" width="3.5" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V16.11127M0 26.56784V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M0 16.11127L-5.22829 24.47655" fill="none"/>
+<g stroke-width="0.8">
+<g stroke-linejoin="bevel">
+<path d="M-6.27393 16.11127C-6.27393 18.35245-5.07788 20.42406-3.13696 21.54465C-1.76398 22.33731-.15091 22.57599 1.37704 22.23221" fill="none"/>
+<g stroke-dasharray="none" stroke-dashoffset="0.0">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M.03264 23.90553C.38232 22.98268 1.09103 22.46965 1.76385 22.13213C1.03107 22.11998 .31494 21.76823 .02022 20.86458" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-65.351018,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0;0,-15" data-label="S -3.751 -7.513 -1 0" id="opening_switch"><title>Opening switch</title><rect x="-3" y="-15.5" width="3.5" height="15.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V16.11127M0 26.56784V42.67912" fill="none"/>
+<g stroke-width="1.0">
+<path d="M0 16.11127L-5.22829 24.47655" fill="none"/>
+<g stroke-width="0.8">
+<g stroke-linejoin="bevel">
+<path d="M1.08943 22.28993C-1.11772 22.6791-3.36545 21.8609-4.80605 20.14409C-5.58145 19.21997-6.07042 18.0962-6.22273 16.91057" fill="none"/>
+<g stroke-dasharray="none" stroke-dashoffset="0.0">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M-4.47359 17.71783C-5.42346 17.75006-5.99895 17.19733-6.26103 16.5126C-6.34804 17.26053-6.58777 18.1019-7.33562 18.74557" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g stroke-width="0.5">
+</g>
+</g>
+<g transform="matrix(0.0,1.0,-1.0,0.0,0.0,21.33955)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-64.156508,-29.231264)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="-5,-0;5,-2.50001;5,2.50001" id="spdt_switch"><title>SPDT switch</title><rect x="-5.5" y="-3.5" width="11" height="7" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M13.43628 7.11322H6.04626M13.43628-7.11322H6.04626M-13.43628 0H-6.04626" fill="none"/>
+<g fill-opacity="1.0">
+<g fill="#fff">
+<path d="M7.31062 7.11322C7.31062 7.81151 6.74455 8.37758 6.04626 8.37758C5.34798 8.37758 4.7819 7.81151 4.7819 7.11322S5.34798 5.84886 6.04626 5.84886C6.74455 5.84886 7.31062 6.41493 7.31062 7.11322ZM6.04626 7.11322"/>
+<path d=""/>
+</g>
+</g>
+<g transform="matrix(1.05821,0.0,0.0,1.05821,6.04626,7.11322)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-57.577724,-63.404658)scale(-1,-1)"/>
+</g>
+<g fill-opacity="1.0">
+<g fill="#fff">
+<path d="M7.31062-7.11322C7.31062-6.41493 6.74455-5.84886 6.04626-5.84886C5.34798-5.84886 4.7819-6.41493 4.7819-7.11322S5.34798-8.37758 6.04626-8.37758C6.74455-8.37758 7.31062-7.81151 7.31062-7.11322ZM6.04626-7.11322"/>
+<path d=""/>
+</g>
+</g>
+<g transform="matrix(1.05821,0.0,0.0,1.05821,6.04626,-7.11322)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-57.577724,-63.404658)scale(-1,-1)"/>
+</g>
+<g fill-opacity="1.0">
+<g fill="#fff">
+<path d="M-4.7819 0C-4.7819 .69829-5.34798 1.26436-6.04626 1.26436C-6.74455 1.26436-7.31062 .69829-7.31062 0S-6.74455-1.26436-6.04626-1.26436C-5.34798-1.26436-4.7819-.69829-4.7819 0ZM-6.04626 0"/>
+<path d=""/>
+</g>
+</g>
+<g transform="matrix(1.05821,0.0,0.0,1.05821,-6.04626,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-57.577724,-63.404658)scale(-1,-1)"/>
+</g>
+<g stroke-width="1.0">
+<path d="M-4.7826 0L5.69147 5.49403" fill="none"/>
+</g>
+<g transform="matrix(1.05821,0.0,0.0,1.05821,0.0,0.0)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-57.577724,-63.404658)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M-13.43628 0H-14.22636" fill="none"/>
+<path d="M13.43628 7.11322H14.22636" fill="none"/>
+<path d="M13.43628-7.11322H14.22636" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0" id="ground"><title>Ground</title><rect x="-2.5" y="-0.5" width="5" height="5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V-7.11317" fill="none"/>
+<g stroke-width="1.1">
+<path d="M-5.69054-7.11317H5.69054M-3.69885-9.6739H3.69885M-1.70717-12.23468H1.70717" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,-0" id="signal_ground"><title>Signal ground</title><rect x="-2" y="-0.5" width="4" height="6" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<path d="M0 0V-7.46886" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-4.48135-7.46886H4.48135L0-13.44395Z" fill="none"/>
+</g>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-67.037261,-71.750938)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,0" id="supply_bar_vdd"><title>Supply bar (VDD)</title><rect x="-2.5" y="-3" width="5" height="3" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0V7.11317" fill="none"/>
+<g stroke-width="1.1">
+<path d="M-5.69054 7.11317H5.69054" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,-0" id="supply_arrow_vdd"><title>Supply arrow (VDD)</title><rect x="-1.5" y="-3.5" width="3" height="3.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-2.98749 4.78L0 8.96248L2.98749 4.78" fill="none"/>
+<g stroke-width="0.5">
+<path d="M0 0V8.96248" fill="none"/>
+</g>
+</g>
+<g transform="translate(0.0,11.94998)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-68.525546,-60.094668)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,-0" id="supply_arrow_vss"><title>Supply arrow (VSS)</title><rect x="-1.5" y="-0.5" width="3" height="4" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g stroke-width="1.0">
+<path d="M-2.98749-4.78L0-8.96248L2.98749-4.78" fill="none"/>
+<g stroke-width="0.5">
+<path d="M0 0V-8.96248" fill="none"/>
+</g>
+</g>
+<g transform="translate(0.0,-11.94998)">
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-68.525546,-71.750938)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,-0" id="node_dot"><title>Node dot</title><rect x="-1" y="-1" width="2" height="2" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g>
+<g fill-opacity="1.0">
+<path d="M1.19481 0C1.19481 .65988 .65988 1.19481 0 1.19481S-1.19481 .65988-1.19481 0S-.65988-1.19481 0-1.19481S1.19481-.65988 1.19481 0ZM0 0"/>
+</g>
+</g>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-70.560593,-70.560593)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="0,-0" id="open_terminal"><title>Open terminal</title><rect x="-1" y="-1" width="2" height="2" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M0 0" fill="none"/>
+<g fill-opacity="1.0">
+<g fill="#fff">
+<path d="M1.19481 0C1.19481 .65988 .65988 1.19481 0 1.19481S-1.19481 .65988-1.19481 0S-.65988-1.19481 0-1.19481S1.19481-.65988 1.19481 0ZM0 0"/>
+<path d=""/>
+</g>
+</g>
+<g stroke="none" transform="scale(-1.00375,1.00375)translate(-70.560593,-70.560593)scale(-1,-1)">
+<g>
+<g stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" data-label="I -1.952 -2.011 -1 0" id="current_arrow"><title>Current arrow</title><rect x="-1" y="-4.5" width="2" height="5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<path d="M0 0V11.09654" fill="none"/>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M-2.27621 7.68225C-1.02429 8.9626-.28453 10.32837 0 11.38109C.28453 10.32837 1.02429 8.9626 2.27621 7.68225" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="arrow_5_mm"><title>Arrow (5 mm)</title><rect x="-0.5" y="-1" width="6" height="2" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M.14226 0H14.08409" fill="none"/>
+</g>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M10.52753 2.27621C11.80788 1.02429 13.17365 .28453 14.22636 0C13.17365-.28453 11.80788-1.02429 10.52753-2.27621" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="arrow_10_mm"><title>Arrow (10 mm)</title><rect x="-0.5" y="-1" width="11" height="2" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M.14226 0H28.31047" fill="none"/>
+</g>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M24.7539 2.27621C26.03426 1.02429 27.40002 .28453 28.45274 0C27.40002-.28453 26.03426-1.02429 24.7539-2.27621" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="arrow_filled_head"><title>Arrow, filled head</title><rect x="-0.5" y="-1" width="6" height="2" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M0 0H10.5275" fill="none"/>
+</g>
+</g>
+</g>
+<path d="M14.22636 0L10.243 1.5649V-1.5649Z" stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="double_arrow"><title>Double arrow</title><rect x="-0.5" y="-1" width="8.5" height="2" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M.14226 0H21.19728" fill="none"/>
+</g>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M17.64072 2.27621C18.92107 1.02429 20.28683 .28453 21.33955 0C20.28683-.28453 18.92107-1.02429 17.64072-2.27621" fill="none"/>
+</g>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M3.69884-2.27621C2.41849-1.02429 1.05272-.28453 0 0C1.05272 .28453 2.41849 1.02429 3.69884 2.27621" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="curved_arrow_half_circle"><title>Curved arrow (half circle)</title><rect x="-3.5" y="-3.5" width="7.5" height="4" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M-8.53581 0C-8.53581 4.71425-4.71425 8.53581 0 8.53581S8.53581 4.71425 8.53581 0" fill="none"/>
+</g>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M9.96361 4.10141C9.01624 2.58197 8.58739 1.0892 8.53581 0C8.0317 .96689 7.01569 2.14163 5.5179 3.12286" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="curved_arrow_three_quarters"><title>Curved arrow (three quarters)</title><rect x="-3.5" y="-3.5" width="7" height="7.5" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M-8.53581 0C-8.53581 4.71425-4.71425 8.53581 0 8.53581S8.53581 4.71425 8.53581 0S4.71425-8.53581 0-8.53581" fill="none"/>
+</g>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M4.10141-9.96361C2.58197-9.01624 1.0892-8.58739 0-8.53581C.96689-8.0317 2.14163-7.01569 3.12286-5.5179" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="bent_arrow"><title>Bent arrow</title><rect x="-0.5" y="-0.5" width="4.5" height="4" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M0 0H8.53581V-8.39354" fill="none"/>
+</g>
+</g>
+</g>
+<g stroke-width="0.8">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M10.81203-4.83698C9.5601-6.11732 8.82034-7.4831 8.53581-8.53581C8.25128-7.4831 7.51152-6.11732 6.2596-4.83698" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="plus_sign"><title>Plus sign</title><rect x="-1" y="-1" width="2" height="2" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.5">
+<path d="M-2.27621 0H2.27621M0-2.27621V2.27621" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="minus_sign"><title>Minus sign</title><rect x="-1" y="-0.5" width="2" height="1" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.5">
+<path d="M-2.27621 0H2.27621" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="plus_minus_pair"><title>Plus-minus pair</title><rect x="-1" y="-2.5" width="2" height="4" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<g stroke-width="0.5">
+<path d="M-2.27621 3.55658H2.27621M0 1.28036V5.83281M-2.27621-3.55658H2.27621" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+    <symbol style="overflow:visible" inkscape:symbol-style="fill:#000000;stroke:#000000" data-pins="" id="circle_node_number"><title>Circle (node number)</title><rect x="-2" y="-2" width="4" height="4" style="fill:none;stroke:none"/><g stroke-miterlimit="10" transform="scale(0.351459804,-0.351459804)">
+<g>
+<g stroke-width="0.4">
+<g stroke-width="0.5">
+<path d="M4.55244 0C4.55244 2.51427 2.51427 4.55244 0 4.55244S-4.55244 2.51427-4.55244 0S-2.51427-4.55244 0-4.55244S4.55244-2.51427 4.55244 0ZM0 0" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+</symbol>
+  </defs>
+</svg>

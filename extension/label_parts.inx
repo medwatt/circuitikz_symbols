@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <name>Label parts</name>
+  <id>org.medwatt.label_parts</id>
+  <effect needs-live-preview="false">
+    <object-type>all</object-type>
+    <effects-menu><submenu name="Circuit"/></effects-menu>
+  </effect>
+  <script><command location="inx" interpreter="python">label_parts.py</command></script>
+</inkscape-extension>
